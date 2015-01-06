@@ -1,9 +1,9 @@
 <chart>
-id=130650565290000540
-symbol=USDJPY
+id=130650565598838520
+symbol=GBPUSD
 period=1440
 leftpos=1953
-digits=3
+digits=5
 scale=8
 graph=1
 fore=1
@@ -18,10 +18,10 @@ days=0
 descriptions=1
 shift_size=20
 fixed_pos=0
-window_left=132
-window_top=132
-window_right=1153
-window_bottom=485
+window_left=44
+window_top=44
+window_right=1065
+window_bottom=397
 window_type=1
 background_color=16777215
 foreground_color=0

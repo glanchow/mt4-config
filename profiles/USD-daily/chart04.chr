@@ -2,7 +2,7 @@
 id=130650565449896900
 symbol=USDCAD
 period=1440
-leftpos=1937
+leftpos=1953
 digits=5
 scale=8
 graph=1
@@ -22,7 +22,7 @@ window_left=22
 window_top=22
 window_right=1043
 window_bottom=375
-window_type=3
+window_type=1
 background_color=16777215
 foreground_color=0
 barup_color=9109504
