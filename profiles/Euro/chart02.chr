@@ -1,8 +1,8 @@
 <chart>
 id=130630603521889280
 symbol=EURUSD
-period=1440
-leftpos=1958
+period=10080
+leftpos=549
 digits=5
 scale=8
 graph=1
