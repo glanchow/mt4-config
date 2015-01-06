@@ -2,7 +2,7 @@
 id=130650556040381960
 symbol=EURAUD
 period=1440
-leftpos=1953
+leftpos=1937
 digits=5
 scale=8
 graph=1
@@ -22,7 +22,7 @@ window_left=66
 window_top=66
 window_right=1087
 window_bottom=419
-window_type=1
+window_type=3
 background_color=16777215
 foreground_color=0
 barup_color=9109504
