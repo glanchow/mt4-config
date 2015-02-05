@@ -1,8 +1,8 @@
 <chart>
-id=130650569835052950
-symbol=EURCHF
+id=130676426008822840
+symbol=XAGUSD
 period=1440
-leftpos=1974
+leftpos=1988
 digits=5
 scale=8
 graph=1
@@ -18,10 +18,10 @@ days=0
 descriptions=1
 shift_size=20
 fixed_pos=0
-window_left=44
-window_top=44
-window_right=1065
-window_bottom=397
+window_left=0
+window_top=246
+window_right=679
+window_bottom=492
 window_type=1
 background_color=16777215
 foreground_color=0
