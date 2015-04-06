@@ -1,8 +1,8 @@
 <chart>
 id=130676399154005680
 symbol=GBPJPY
-period=240
-leftpos=2009
+period=1440
+leftpos=2060
 digits=3
 scale=8
 graph=1

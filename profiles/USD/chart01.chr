@@ -1,8 +1,8 @@
 <chart>
-id=130650565598838520
-symbol=GBPUSD
+id=130650565338352270
+symbol=AUDUSD
 period=1440
-leftpos=2035
+leftpos=2106
 digits=5
 scale=8
 graph=1
@@ -18,10 +18,10 @@ days=0
 descriptions=1
 shift_size=20
 fixed_pos=0
-window_left=0
-window_top=246
-window_right=452
-window_bottom=492
+window_left=904
+window_top=0
+window_right=1356
+window_bottom=164
 window_type=1
 background_color=16777215
 foreground_color=0

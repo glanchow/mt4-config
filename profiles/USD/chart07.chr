@@ -1,8 +1,8 @@
 <chart>
-id=130676429540840030
-symbol=USDCHF
+id=130650565598838520
+symbol=GBPUSD
 period=1440
-leftpos=2035
+leftpos=2086
 digits=5
 scale=8
 graph=1
@@ -18,9 +18,9 @@ days=0
 descriptions=1
 shift_size=20
 fixed_pos=0
-window_left=904
-window_top=328
-window_right=1356
+window_left=0
+window_top=246
+window_right=452
 window_bottom=492
 window_type=1
 background_color=16777215

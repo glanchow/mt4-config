@@ -1,10 +1,10 @@
 <chart>
-id=130676426344660190
-symbol=DE30EUR
+id=130676426245945890
+symbol=UK100GBP
 period=1440
-leftpos=1987
+leftpos=1965
 digits=1
-scale=8
+scale=4
 graph=1
 fore=1
 grid=0
@@ -19,9 +19,9 @@ descriptions=1
 shift_size=20
 fixed_pos=0
 window_left=679
-window_top=164
+window_top=0
 window_right=1358
-window_bottom=328
+window_bottom=164
 window_type=1
 background_color=16777215
 foreground_color=0

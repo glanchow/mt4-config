@@ -1,8 +1,8 @@
 <chart>
-id=130650569252903400
-symbol=EURCAD
+id=130650557073438660
+symbol=EURNZD
 period=1440
-leftpos=1979
+leftpos=2030
 digits=5
 scale=8
 graph=1
@@ -18,10 +18,10 @@ days=0
 descriptions=1
 shift_size=20
 fixed_pos=0
-window_left=22
-window_top=22
-window_right=1043
-window_bottom=375
+window_left=110
+window_top=110
+window_right=1131
+window_bottom=463
 window_type=1
 background_color=16777215
 foreground_color=0

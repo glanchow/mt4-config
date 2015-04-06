@@ -1,8 +1,8 @@
 <chart>
-id=130650557073438660
-symbol=EURNZD
-period=1440
-leftpos=1979
+id=130630603521889280
+symbol=EURUSD
+period=240
+leftpos=8233
 digits=5
 scale=8
 graph=1
@@ -18,10 +18,10 @@ days=0
 descriptions=1
 shift_size=20
 fixed_pos=0
-window_left=110
-window_top=110
-window_right=1131
-window_bottom=463
+window_left=392
+window_top=0
+window_right=588
+window_bottom=311
 window_type=1
 background_color=16777215
 foreground_color=0

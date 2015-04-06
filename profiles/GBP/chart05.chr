@@ -1,10 +1,10 @@
 <chart>
-id=130676399097525890
-symbol=EURGBP
+id=130676400909678770
+symbol=GBPAUD
 period=1440
-leftpos=2035
+leftpos=2021
 digits=5
-scale=8
+scale=4
 graph=1
 fore=1
 grid=0
@@ -18,9 +18,9 @@ days=0
 descriptions=1
 shift_size=20
 fixed_pos=0
-window_left=0
+window_left=904
 window_top=0
-window_right=452
+window_right=1356
 window_bottom=246
 window_type=1
 background_color=16777215
