@@ -1,8 +1,8 @@
 <chart>
 id=130667314644850370
 symbol=AUDNZD
-period=1440
-leftpos=1868
+period=240
+leftpos=1846
 digits=5
 scale=4
 graph=1
@@ -22,7 +22,7 @@ window_left=22
 window_top=22
 window_right=1021
 window_bottom=374
-window_type=1
+window_type=3
 background_color=16777215
 foreground_color=0
 barup_color=9109504
