@@ -1,10 +1,10 @@
 <chart>
 id=130791701172896080
 symbol=EURGBP
-period=240
-leftpos=3170
+period=1440
+leftpos=2184
 digits=5
-scale=4
+scale=8
 graph=1
 fore=1
 grid=0
@@ -26,10 +26,10 @@ window_bottom=547
 window_type=1
 background_color=16777215
 foreground_color=0
-barup_color=9109504
-bardown_color=255
-bullcandle_color=9109504
-bearcandle_color=255
+barup_color=16748574
+bardown_color=16711935
+bullcandle_color=16777215
+bearcandle_color=16777215
 chartline_color=42495
 volumes_color=36095
 grid_color=10061943
@@ -37,48 +37,10 @@ askline_color=255
 stops_color=255
 
 <window>
-height=114
+height=120
 fixed_height=0
 <indicator>
 name=main
-<object>
-type=2
-object_name=Trendline 32594
-period_flags=0
-create_time=1451392850
-color=5737262
-style=0
-weight=1
-background=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-time_0=1441324800
-value_0=0.689880
-time_1=1450310400
-value_1=0.709620
-ray=1
-</object>
-<object>
-type=2
-object_name=Trendline 32599
-period_flags=0
-create_time=1451392855
-color=5737262
-style=0
-weight=1
-background=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-time_0=1439164800
-value_0=0.743850
-time_1=1451520000
-value_1=0.732670
-ray=1
-</object>
 </indicator>
 <indicator>
 name=Moving Average
@@ -86,7 +48,7 @@ period=20
 shift=0
 method=1
 apply=1
-color=2263842
+color=25600
 style=0
 weight=1
 period_flags=0
@@ -98,7 +60,7 @@ period=10
 shift=0
 method=1
 apply=1
-color=42495
+color=2763429
 style=0
 weight=1
 period_flags=0
@@ -110,7 +72,7 @@ period=5
 shift=0
 method=1
 apply=1
-color=9639167
+color=42495
 style=0
 weight=1
 period_flags=0
@@ -119,7 +81,7 @@ show_data=1
 </window>
 
 <window>
-height=36
+height=30
 fixed_height=0
 <indicator>
 name=Custom Indicator
@@ -133,7 +95,7 @@ InpRSIPeriod=14
 </expert>
 shift_0=0
 draw_0=0
-color_0=16748574
+color_0=7059389
 style_0=0
 weight_0=0
 min=0.00000000
