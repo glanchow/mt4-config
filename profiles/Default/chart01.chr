@@ -1,8 +1,8 @@
 <chart>
-id=130791708026634970
-symbol=GBPUSD
+id=130916162088431220
+symbol=USDCHF
 period=1440
-leftpos=2275
+leftpos=2271
 digits=5
 scale=8
 graph=1
@@ -19,10 +19,10 @@ days=0
 descriptions=1
 shift_size=20
 fixed_pos=0
-window_left=198
-window_top=198
-window_right=1890
-window_bottom=653
+window_left=22
+window_top=22
+window_right=1718
+window_bottom=482
 window_type=1
 background_color=16777215
 foreground_color=0
@@ -41,6 +41,25 @@ height=120
 fixed_height=0
 <indicator>
 name=main
+<object>
+type=2
+object_name=Trendline 44469
+period_flags=0
+create_time=1452256693
+color=32896
+style=0
+weight=1
+background=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1440374400
+value_0=0.925690
+time_1=1451433600
+value_1=0.985620
+ray=1
+</object>
 </indicator>
 <indicator>
 name=Moving Average

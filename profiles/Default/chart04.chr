@@ -1,6 +1,6 @@
 <chart>
-id=130916162088431220
-symbol=USDCHF
+id=130791707811836210
+symbol=USDCAD
 period=1440
 leftpos=2271
 digits=5
@@ -19,10 +19,10 @@ days=0
 descriptions=1
 shift_size=20
 fixed_pos=0
-window_left=22
-window_top=22
-window_right=1718
-window_bottom=482
+window_left=154
+window_top=154
+window_right=1846
+window_bottom=609
 window_type=1
 background_color=16777215
 foreground_color=0
