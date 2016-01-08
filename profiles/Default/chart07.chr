@@ -1,8 +1,8 @@
 <chart>
-id=130837662949670140
-symbol=NZDUSD
-period=1440
-leftpos=2111
+id=130791708026634970
+symbol=GBPUSD
+period=10080
+leftpos=387
 digits=5
 scale=4
 graph=1
@@ -19,10 +19,10 @@ days=0
 descriptions=1
 shift_size=20
 fixed_pos=0
-window_left=0
-window_top=0
-window_right=1696
-window_bottom=459
+window_left=198
+window_top=198
+window_right=1890
+window_bottom=653
 window_type=1
 background_color=16777215
 foreground_color=0
@@ -43,9 +43,9 @@ fixed_height=0
 name=main
 <object>
 type=1
-object_name=Horizontal Line 32694
+object_name=Horizontal Line 11049
 period_flags=0
-create_time=1447329718
+create_time=1445341993
 color=5737262
 style=0
 weight=1
@@ -54,13 +54,13 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-value_0=0.649191
+value_0=1.535118
 </object>
 <object>
 type=2
-object_name=Trendline 11916
+object_name=Trendline 35009
 period_flags=0
-create_time=1451306636
+create_time=1447069889
 color=5737262
 style=0
 weight=1
@@ -69,17 +69,36 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1405036800
-value_0=0.883230
-time_1=1430265600
-value_1=0.774320
+time_0=1440460800
+value_0=1.581730
+time_1=1446508800
+value_1=1.548739
+ray=1
+</object>
+<object>
+type=2
+object_name=Trendline 35014
+period_flags=0
+create_time=1447069894
+color=5737262
+style=0
+weight=1
+background=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1436227200
+value_0=1.533457
+time_1=1446940800
+value_1=1.503030
 ray=1
 </object>
 <object>
 type=1
-object_name=Horizontal Line 12111
+object_name=Horizontal Line 13944
 period_flags=0
-create_time=1451306831
+create_time=1448883832
 color=5737262
 style=0
 weight=1
@@ -88,13 +107,13 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-value_0=0.682708
+value_0=1.486351
 </object>
 <object>
-type=2
-object_name=Trendline 57764
+type=1
+object_name=Horizontal Line 13951
 period_flags=0
-create_time=1451549092
+create_time=1448883839
 color=5737262
 style=0
 weight=1
@@ -103,11 +122,22 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1442966400
-value_0=0.623560
-time_1=1449619200
-value_1=0.656980
-ray=1
+value_0=1.459981
+</object>
+<object>
+type=1
+object_name=Horizontal Line 11766
+period_flags=0
+create_time=1451306486
+color=5737262
+style=0
+weight=1
+background=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+value_0=1.493471
 </object>
 </indicator>
 </window>

@@ -1,8 +1,8 @@
 <chart>
-id=130916162088431220
-symbol=USDCHF
+id=130791707811836210
+symbol=USDCAD
 period=1440
-leftpos=2107
+leftpos=2108
 digits=5
 scale=4
 graph=1
@@ -19,10 +19,10 @@ days=0
 descriptions=1
 shift_size=20
 fixed_pos=0
-window_left=22
-window_top=22
-window_right=1718
-window_bottom=482
+window_left=154
+window_top=154
+window_right=1846
+window_bottom=609
 window_type=1
 background_color=16777215
 foreground_color=0
@@ -42,10 +42,40 @@ fixed_height=0
 <indicator>
 name=main
 <object>
-type=2
-object_name=Trendline 24097
+type=1
+object_name=Horizontal Line 36852
 period_flags=0
-create_time=1447779873
+create_time=1449562100
+color=5737262
+style=0
+weight=1
+background=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+value_0=1.341652
+</object>
+<object>
+type=1
+object_name=Horizontal Line 39101
+period_flags=0
+create_time=1450875069
+color=5737262
+style=0
+weight=1
+background=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+value_0=1.396541
+</object>
+<object>
+type=2
+object_name=Trendline 42582
+period_flags=0
+create_time=1451927126
 color=5737262
 style=0
 weight=1
@@ -55,16 +85,16 @@ selectable=1
 hidden=0
 zorder=0
 time_0=1431561600
-value_0=0.907750
-time_1=1445385600
-value_1=0.952750
+value_0=1.191890
+time_1=1444780800
+value_1=1.290240
 ray=1
 </object>
 <object>
-type=1
-object_name=Horizontal Line 14155
+type=2
+object_name=Trendline 42591
 period_flags=0
-create_time=1448884043
+create_time=1451927135
 color=5737262
 style=0
 weight=1
@@ -73,37 +103,11 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-value_0=1.023189
-</object>
-<object>
-type=1
-object_name=Horizontal Line 14159
-period_flags=0
-create_time=1448884047
-color=5737262
-style=0
-weight=1
-background=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-value_0=1.027741
-</object>
-<object>
-type=1
-object_name=Horizontal Line 42327
-period_flags=0
-create_time=1451926871
-color=5737262
-style=0
-weight=1
-background=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-value_0=0.972574
+time_0=1437696000
+value_0=1.310200
+time_1=1450396800
+value_1=1.400020
+ray=1
 </object>
 </indicator>
 </window>
