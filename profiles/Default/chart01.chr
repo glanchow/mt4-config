@@ -1,9 +1,9 @@
 <chart>
-id=130916162088431220
-symbol=USDCHF
+id=130791707874226150
+symbol=USDJPY
 period=1440
-leftpos=2103
-digits=5
+leftpos=2108
+digits=3
 scale=4
 graph=1
 fore=1
@@ -19,10 +19,10 @@ days=0
 descriptions=1
 shift_size=20
 fixed_pos=0
-window_left=22
-window_top=22
-window_right=1718
-window_bottom=482
+window_left=176
+window_top=176
+window_right=1868
+window_bottom=631
 window_type=1
 background_color=16777215
 foreground_color=0
@@ -43,9 +43,9 @@ fixed_height=0
 name=main
 <object>
 type=2
-object_name=Trendline 24097
+object_name=Trendline 32659
 period_flags=0
-create_time=1447779873
+create_time=1447329683
 color=5737262
 style=0
 weight=1
@@ -54,17 +54,17 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1431561600
-value_0=0.907750
-time_1=1445385600
-value_1=0.952750
+time_0=1433462400
+value_0=125.850000
+time_1=1439337600
+value_1=125.224000
 ray=1
 </object>
 <object>
 type=1
-object_name=Horizontal Line 14155
+object_name=Horizontal Line 32903
 period_flags=0
-create_time=1448884043
+create_time=1451393159
 color=5737262
 style=0
 weight=1
@@ -73,37 +73,7 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-value_0=1.023189
-</object>
-<object>
-type=1
-object_name=Horizontal Line 14159
-period_flags=0
-create_time=1448884047
-color=5737262
-style=0
-weight=1
-background=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-value_0=1.027741
-</object>
-<object>
-type=1
-object_name=Horizontal Line 42327
-period_flags=0
-create_time=1451926871
-color=5737262
-style=0
-weight=1
-background=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-value_0=0.972574
+value_0=118.825800
 </object>
 </indicator>
 </window>

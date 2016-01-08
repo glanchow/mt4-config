@@ -1,8 +1,8 @@
 <chart>
-id=130791707727149040
-symbol=AUDUSD
+id=130837662949670140
+symbol=NZDUSD
 period=1440
-leftpos=2032
+leftpos=2111
 digits=5
 scale=4
 graph=1
@@ -19,10 +19,10 @@ days=0
 descriptions=1
 shift_size=20
 fixed_pos=0
-window_left=110
-window_top=110
-window_right=1802
-window_bottom=565
+window_left=0
+window_top=0
+window_right=1696
+window_bottom=459
 window_type=1
 background_color=16777215
 foreground_color=0
@@ -42,10 +42,10 @@ fixed_height=0
 <indicator>
 name=main
 <object>
-type=2
-object_name=Trendline 39221
+type=1
+object_name=Horizontal Line 32694
 period_flags=0
-create_time=1450875189
+create_time=1447329718
 color=5737262
 style=0
 weight=1
@@ -54,17 +54,13 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1449158400
-value_0=0.736160
-time_1=1450742400
-value_1=0.724640
-ray=1
+value_0=0.649191
 </object>
 <object>
 type=2
-object_name=Trendline 32594
+object_name=Trendline 11916
 period_flags=0
-create_time=1451392850
+create_time=1451306636
 color=5737262
 style=0
 weight=1
@@ -73,36 +69,17 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1441324800
-value_0=0.689880
-time_1=1450396800
-value_1=0.711470
-ray=1
-</object>
-<object>
-type=2
-object_name=Trendline 32599
-period_flags=0
-create_time=1451392855
-color=5737262
-style=0
-weight=1
-background=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-time_0=1439164800
-value_0=0.743850
-time_1=1444608000
-value_1=0.738120
+time_0=1405036800
+value_0=0.883230
+time_1=1430265600
+value_1=0.774320
 ray=1
 </object>
 <object>
 type=1
-object_name=Horizontal Line 61225
+object_name=Horizontal Line 12111
 period_flags=0
-create_time=1451552553
+create_time=1451306831
 color=5737262
 style=0
 weight=1
@@ -111,7 +88,26 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-value_0=0.738401
+value_0=0.682708
+</object>
+<object>
+type=2
+object_name=Trendline 57764
+period_flags=0
+create_time=1451549092
+color=5737262
+style=0
+weight=1
+background=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1442966400
+value_0=0.623560
+time_1=1449619200
+value_1=0.656980
+ray=1
 </object>
 </indicator>
 </window>
